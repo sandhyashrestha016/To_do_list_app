@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "505442095030",
+    "firebase_url": "https://hospital-bcf1d.firebaseio.com",
+    "project_id": "hospital-bcf1d",
+    "storage_bucket": "hospital-bcf1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505442095030:android:a95192f51020957b597b17",
+        "android_client_info": {
+          "package_name": "com.example.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505442095030-784gaj5fhl5jg4dtg90h7j8r59704i55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiWzvMTJuFzlzlSRWDqM5lh_s7BZsJKVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505442095030-784gaj5fhl5jg4dtg90h7j8r59704i55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
